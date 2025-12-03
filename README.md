@@ -20,3 +20,5 @@
 5) Visualization and comparison of model performance
 
 6) Goal: To explore how resampling techniques like SMOTE improve fraud detection performance and to compare different models on imbalanced classification tasks.
+## Dataset Source
+The dataset can be accessed here https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
